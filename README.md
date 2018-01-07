@@ -1,6 +1,8 @@
-# Phaser + ES6 + Webpack.
-#### A bootstrap project to create games with Phaser + ES6 + Webpack.
+# Mind Abundant  LDG Jamuary 2018 entry
 
+<<<<<<< HEAD
+I got "mind abundant" from the theme randomizer, so I'm gonna stick with that
+=======
 ![Phaser+ES6+Webpack](https://raw.githubusercontent.com/lean/phaser-es6-webpack/master/assets/images/phaser-es6-webpack.jpg)
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
@@ -100,3 +102,4 @@ https://github.com/cstuncsik/phaser-es6-demo
 ## Contributors
 
 https://github.com/RenaudROHLINGER
+>>>>>>> 28b3021e52bcbd0ce425b9ce593a94bde06aef2a
